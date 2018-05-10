@@ -1,5 +1,5 @@
 # cbc-react-one-session
-Coding Bootcamp Sequelize Session
+Coding Bootcamp React One Session
 
 GitHub: https://github.com/Travo100/chihuahua-clicker
 
